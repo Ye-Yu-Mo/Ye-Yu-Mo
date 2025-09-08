@@ -12,13 +12,11 @@
 
 ## 🚀 关于我
 
-我是一名充满热情的软件工程师，专注于**系统编程**、**分布式系统**和**金融科技**领域的开发。热爱探索新技术，致力于构建高性能、可扩展的软件解决方案。
-
-- 🔭 目前正在开发: [智能记账应用 YourWallet](https://github.com/Ye-Yu-Mo/your_wallet) 和 [交易系统](https://github.com/Ye-Yu-Mo/trading-system)
+- 🔭 目前正在开发: [智能记账应用 YourWallet](https://github.com/Ye-Yu-Mo/your_wallet) 和 QuarkNote
 - 🌱 学习中: Rust 异步编程、区块链技术、量化交易策略
 - 💼 技术栈: C++、Rust、Go、Flutter、React
 - 📫 联系我: xulei.ahu@qq.com
-- ⚡ 座右铭: "代码改变世界，细节决定成败"
+- ⚡ 座右铭: "写代码是热爱，写到世界充满爱"
 
 ## 🛠️ 技术栈
 
@@ -117,9 +115,9 @@
 
 ### 🔧 其他项目
 
-- **[交易系统](https://github.com/Ye-Yu-Mo/trading-system)**: Rust量化交易框架，支持多交易所API
 - **[Effective C++ 中文笔记](https://github.com/Ye-Yu-Mo/Effective-CPP-DOCS-CHINESE)**: 高质量C++学习资源
 - **[XuChat-server](https://github.com/Ye-Yu-Mo/XuChat-server)**: 实时聊天服务器实现
+- **QuarkNote**
 
 ## 📊 GitHub 统计
 
