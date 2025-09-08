@@ -123,7 +123,8 @@
 
 <div align="center">
 
-![语言使用统计](https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Yu-Mo&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Yu-Mo&layout=compact&langs_count=6&exclude_repo=Effective-CPP-DOCS-CHINESE,LearnRep&theme=radical)
+
 
 ![活动图表](https://github-readme-activity-graph.vercel.app/graph?username=Ye-Yu-Mo&theme=redical)
 
