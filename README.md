@@ -104,6 +104,15 @@
 
 </details>
 
+### [Server-Manager - 分布式服务器管理系统](https://github.com/Ye-Yu-Mo/Server-Manager)
+**轻量级服务器运维平台** | `Rust + Flutter + SQLite`
+
+- **分布式管理**: 支持多节点自动注册和心跳检测
+- **实时监控**: CPU、内存、磁盘、网络等系统指标采集
+- **远程控制**: Shell命令远程执行，支持异步结果返回
+- **跨平台客户端**: Flutter构建的移动端、桌面端和Web界面
+- **轻量级部署**: SQLite本地存储，开箱即用无需复杂配置
+
 ### [AbbrevScan - 文档缩写提取工具](https://github.com/Ye-Yu-Mo/AbbrevScan)
 **智能文档处理** | `Go + React + Python`
 
@@ -135,10 +144,10 @@
 
 <div align="center">
 
+[![Server-Manager](https://github-readme-stats.vercel.app/api/pin/?username=Ye-Yu-Mo&repo=Server-Manager&theme=radical)](https://github.com/Ye-Yu-Mo/Server-Manager)
 [![LogSystem](https://github-readme-stats.vercel.app/api/pin/?username=Ye-Yu-Mo&repo=LogSystem&theme=radical)](https://github.com/Ye-Yu-Mo/LogSystem)
 [![YourWallet](https://github-readme-stats.vercel.app/api/pin/?username=Ye-Yu-Mo&repo=your_wallet&theme=radical)](https://github.com/Ye-Yu-Mo/your_wallet)
 [![Message-Queues](https://github-readme-stats.vercel.app/api/pin/?username=Ye-Yu-Mo&repo=Message-Queues&theme=radical)](https://github.com/Ye-Yu-Mo/Message-Queues)
-[![AbbrevScan](https://github-readme-stats.vercel.app/api/pin/?username=Ye-Yu-Mo&repo=AbbrevScan&theme=radical)](https://github.com/Ye-Yu-Mo/AbbrevScan)
 
 </div>
 
