@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Yu-Mo&layout=compact&exclude_repo=Ye-Yu-Mo.github.io,Effective-CPP-DOCS-CHINESE,LearnRep&theme=radical)
+
 
 </div>
 
