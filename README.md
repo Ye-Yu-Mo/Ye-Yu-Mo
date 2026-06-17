@@ -19,7 +19,7 @@
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ye-Yu-Mo&show_icons=true&count_private=true&hide_border=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Yu-Mo&layout=compact&hide_border=true&langs_count=6&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ye-Yu-Mo&layout=compact&hide_border=true&langs_count=6&theme=default&exclude_repo=LearnRep,Ye-Yu-Mo.github.io,JasmineNote)
 
 </div>
 
