@@ -1,37 +1,22 @@
-# 许磊 — 量化交易系统工程师
+# Jasxu — 量化交易系统工程师
 
-> **C++ / Rust · AI 辅助开发 · 交易系统基础设施**
+> **C++ / Rust  · 交易系统基础设施**
 >
 > 做能落地的系统，不写没用的代码。
-
-## 🔭 正在做什么
-
-- **量化交易系统开发** — 期货/股票交易总控、信号转发同步、多市场信号解析
-- **[FundVal-Live](https://github.com/Ye-Yu-Mo/FundVal-Live)** — 盘中基金实时估值，⭐ 514，持续维护中
-- **ETF 动量策略研究** — A 股/台股实盘验证中
 
 ## 📫 联系
 
 - Email: xulei.ahu@qq.com
-- Blog: [ye-yu-mo.github.io](https://ye-yu-mo.github.io/)
 
 ## ⭐ 核心项目
 
 ### [FundVal-Live](https://github.com/Ye-Yu-Mo/FundVal-Live) — 盘中基金实时估值
-`Python` · ⭐ 514
+`Python` · ⭐ 527
 
 盘中实时计算基金估值与净值，不用等收盘才知道持仓收益。配套 API：
 
 - **[yjb-api](https://github.com/Ye-Yu-Mo/yjb-api)** (⭐24) — 养基宝 API
 - **[xbyj-api](https://github.com/Ye-Yu-Mo/xbyj-api)** — 小倍养基 API
-
-### [AI-SRE-Agent](https://github.com/Ye-Yu-Mo/AI-SRE-Agent) — AI 安全运维 Agent
-`Go + TypeScript + MCP` · ⭐2
-
-让 AI 安全地部署和维护 Linux 服务器：
-- **Typed Action** — AI 只能调用预定义动作，不给 root shell
-- **Plan/Apply 分离** — 有副作用的操作先生成计划再执行
-- **可审计可回滚** — 每次写操作记录 before/after
 
 ## 🛠 技术栈
 
